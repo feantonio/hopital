@@ -1,0 +1,19 @@
+SMAP
+borrarUsuario_jsp.java
+JSP
+*S JSP
+*F
++ 0 borrarUsuario.jsp
+borrarUsuario.jsp
+*L
+1,2:45
+3,2:47,2
+6,11:52
+16,2:63
+18:65,3
+19,3:68
+22,8:72
+29,3:80
+32,3:84
+34,2:87
+*E

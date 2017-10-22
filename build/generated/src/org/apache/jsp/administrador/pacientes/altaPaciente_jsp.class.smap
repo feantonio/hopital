@@ -1,0 +1,22 @@
+SMAP
+altaPaciente_jsp.java
+JSP
+*S JSP
+*F
++ 0 altaPaciente.jsp
+administrador/pacientes/altaPaciente.jsp
+*L
+1,5:45
+5:49,2
+6,160:51
+166,13:212
+178,5:225
+183,5:231
+187,5:236
+192,5:242
+196,5:247
+201,5:253
+205,5:258
+210,4:264
+213,3:268
+*E
